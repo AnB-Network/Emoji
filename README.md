@@ -1,0 +1,2 @@
+# Emoji
+JSON emoji files
